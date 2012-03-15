@@ -1,3 +1,7 @@
 html {
 	font-size: 100%;
 }
+body {
+	width: 80%;
+	margin: 0 auto;
+}
